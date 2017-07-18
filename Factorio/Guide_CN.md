@@ -35,10 +35,11 @@ If you have any comments, typo reports or suggestions regarding the guide, you c
 ====
 这个指南尽量做到涵盖游戏内的所有的主要方面和要素，不会把每条细节都列出但是尽量包含每个话题下的最重要的内容。不把每条细节都列出来是因为指南会变得太长，另外Factorio的主要乐趣在于自己探索和发现一些东西。把这本指南当作当你没有头绪时候的词典，或者作为一个你能够有储备的开始游戏的出发点。<br>
 指导部分主要按在游戏里遇到的时间顺序安排。正如你所想的，随着指南的深入，会涉及更多高级玩法也将需要更多的经验来理解这些高级玩法是怎么回事。如果你从头开始读，你不会不理解最后一部分在讲什么。每章都有对于的内容列表，点击会跳转到对应页面。<br>
-对于特定的物品信息，你可以在物品名录里找到对应的简单描述。__[物品名录](http://guide.factorio.com/18-item-index.html)__按照游戏内的分类方式，以便更容易的找到对于的物品。<br>
-如果你找如何设置和建造特定物品，比如一些好的脉冲建筑或者更多的火车站，你可以点击__[附录，设置&建造](http://guide.factorio.com/16-additional-information-setups-and-builds.html)__部分。<br>
+对于特定的物品信息，你可以在物品名录里找到对应的简单描述。[物品名录](http://guide.factorio.com/18-item-index.html)按照游戏内的分类方式，以便更容易的找到对于的物品。<br>
+如果你找如何设置和建造特定物品，比如一些好的脉冲建筑或者更多的火车站，你可以点击[附录，设置&建造](http://guide.factorio.com/16-additional-information-setups-and-builds.html)部分。<br>
 开始Factorio的介绍之旅吧！<br>
 *下一章：游戏操作和地图设置*<br>
+
 ----
 02）游戏操作和地图设置
 ====
